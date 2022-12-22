@@ -1,0 +1,6 @@
+{
+  "appId": "com.nemati",
+  "appName": "Nemati",
+  "webDir": ".output/public",
+  "bundledWebRuntime": false
+}

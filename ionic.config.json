@@ -1,0 +1,7 @@
+{
+  "name": "Nemati",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
