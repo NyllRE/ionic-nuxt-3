@@ -29,7 +29,9 @@
     "@ionic/vue": "^6.4.1",
     "@ionic/vue-router": "^6.4.1",
     "pug": "^3.0.2",
-    "sass": "^1.57.1"
+    "sass": "^1.57.1",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6"
   },
   "packageManager": "pnpm@7.19.0"
 }
