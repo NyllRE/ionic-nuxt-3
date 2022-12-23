@@ -1,5 +1,7 @@
 <!-- @format -->
 
 <template lang="pug">
-h1 home Tab
+ionPage
+    ionContent
+        h1 home Tab
 </template>

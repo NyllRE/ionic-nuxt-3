@@ -5,4 +5,7 @@ export default defineNuxtConfig({
 	modules: ['@nuxtjs/ionic'],
 	css: ['~/assets/css/ionic.css'],
 	ssr: false,
+	experimental: {
+		externalVue: true,
+	}
 });
