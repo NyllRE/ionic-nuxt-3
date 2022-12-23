@@ -1,5 +1,7 @@
 <!-- @format -->
 
 <template lang="pug">
-h1 this page is for scheduling
+ionPage
+    ionContent
+        h1 this page is for scheduling
 </template>
